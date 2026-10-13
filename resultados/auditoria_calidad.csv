@@ -1,0 +1,13 @@
+﻿control,conteo,denominador,porcentaje,unidad_denominador
+Timestamp nulo en origen,0,18050,0.0,filas
+Valor nulo en origen,0,18050,0.0,filas
+Fechas inválidas nuevas por conversión,0,18050,0.0,filas
+Valores no numéricos nuevos,0,18050,0.0,filas
+Filas duplicadas en origen,0,18050,0.0,filas
+Timestamps duplicados válidos,0,18050,0.0,fechas válidas
+Valores infinitos,0,18050,0.0,filas
+"Fuera de [0, 100] (unidad supuesta)",0,18050,0.0,filas
+Retrocesos temporales en origen,0,18049,0.0,transiciones
+Intervalos diferentes a la moda,0,18049,0.0,transiciones válidas
+Puntos ausentes en malla interna,0,18050,0.0,puntos esperados
+Fechas únicas fuera de malla,0,18050,0.0,fechas únicas

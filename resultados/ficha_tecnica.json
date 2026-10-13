@@ -1,0 +1,19 @@
+{
+  "archivo": "cpu_utilization_asg_misconfiguration.csv",
+  "sha256": "58ba65dc0737cfbac11b51514476d50c438d44011232144bb8d93f392df58f9f",
+  "fecha_descarga": "No documentada",
+  "version_dataset": "No documentada",
+  "fecha_consulta_referencias": "2026-10-13",
+  "filas": 18050,
+  "columnas": 2,
+  "inicio": "2014-05-14 01:14:00+00:00",
+  "fin": "2014-07-15 17:19:00+00:00",
+  "intervalo_observado": "0 days 00:05:00",
+  "zona_horaria": "UTC asumida, no confirmada",
+  "versiones_software": {
+    "Python": "3.12.14",
+    "pandas": "3.0.1",
+    "numpy": "2.5.4",
+    "matplotlib": "3.11.2"
+  }
+}
