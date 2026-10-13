@@ -8,9 +8,9 @@
   "columnas": 2,
   "inicio": "2014-05-14 01:14:00+00:00",
   "fin": "2014-07-15 17:19:00+00:00",
-  "intervalo_observado": "0 days 00:05:00",
+  "frecuencia": "0 days 00:05:00",
   "zona_horaria": "UTC asumida, no confirmada",
-  "versiones_software": {
+  "versiones": {
     "Python": "3.12.14",
     "pandas": "3.0.1",
     "numpy": "2.5.4",
